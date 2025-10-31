@@ -1,2 +1,2 @@
 # learning_web_development
-Learning web development with HTML, CSS and JavaScript
+Learning to create websites with HTML, CSS and JavaScript
